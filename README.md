@@ -1,6 +1,7 @@
 # TextUtils Web - Your Text Transformation Tool
 
-<img width="1440" alt="Screenshot 2023-07-31 at 12 14 31 AM" src="https://github.com/sharmatushar14/TextUtils/assets/74085254/e4a9e270-83ab-47f4-95c9-9e3a9ddccb99">
+<img width="1169" alt="Screenshot 2023-07-31 at 12 22 05 AM" src="https://github.com/sharmatushar14/TextUtils/assets/74085254/ee8474e6-8113-435d-ab32-8cf5ebde3d02">
+
 
 TextUtils Web is a handy web application built using the React framework that empowers users to easily convert text into uppercase, lowercase, and remove extra spaces. With a simple and intuitive user interface, TextUtils Web streamlines your text transformation tasks and ensures cleaner, more readable content.
 
